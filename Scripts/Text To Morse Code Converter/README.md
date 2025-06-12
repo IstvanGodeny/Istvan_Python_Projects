@@ -6,4 +6,4 @@ It converts the input texts to Morse code. The application is only capable of co
 
 The application can be tested on my website, too.
 
-<a href="https://istvang.pythonanywhere.com/project/text_to_morse">Test here</a>
+<a href="https://istvang.pythonanywhere.com/project/text_to_morse" target="_blank">Test here</a>
