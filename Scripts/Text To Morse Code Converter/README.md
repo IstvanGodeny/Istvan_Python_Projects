@@ -1,8 +1,10 @@
 # Text To Morse Code Converter
 
-It runs in the terminal.
+The program runs in the terminal.
 
-It converts the input texts to Morse code. The application is only capable of converting plain text to Morse code. The reverse conversion doesn't work. If the input is Morse code, the output will be Morse code too, and the input is handled as plain text.
+It converts input text to Morse code. The application is only capable of converting plain text to Morse code — reverse conversion is not supported. If the input is already in Morse code, the output will still be Morse code, as the input is treated as plain text.
+
+The first version uses arrays to achieve the conversion, while the second version uses a dictionary. The second version is a shorter and cleaner solution.
 
 The application can also be tested on my website.
 
