@@ -1,6 +1,6 @@
 # Tic Tac Toe - AI
 
-This is a simplified version of the game. You play against the AI (minimax function).
+This is a simplified version of the game. You play against an AI using the minimax algorithm.
 
 The application runs in the terminal.
 
