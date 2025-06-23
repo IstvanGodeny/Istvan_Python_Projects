@@ -44,7 +44,7 @@ Only .ttf files are supported. You can freely add or remove font files.
 ---
 ## 🎓 Author Note
 
-This is a demo project created as part of my learning journey as a junior Python developer.
+This is a demo project, created as part of my learning journey as a junior Python developer.
 I focused on building a functional, maintainable, and visually clean app, without unnecessary complexity.
 
 ---
