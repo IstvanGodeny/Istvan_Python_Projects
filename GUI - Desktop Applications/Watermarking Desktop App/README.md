@@ -61,3 +61,10 @@ MIT License – feel free to use, modify, and learn from it!
 
 ```bash
 pip install -r requirements.txt
+```
+---
+## ⚙️ Build használata
+
+Feltételek:
+	•	Python 3.8+
+	•	pyinstaller telepítve (pip install pyinstaller)
