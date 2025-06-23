@@ -39,6 +39,7 @@ This app runs on:
 ```bash
 pip install -r requirements.txt
 
+
 ---
 📂 Fonts
 
