@@ -29,7 +29,30 @@ This app runs on:
 > ✅ No installation required — only Python 3.8+ and a few standard packages.
 
 ---
+## 📂 Fonts
 
+All fonts are loaded from the fonts/ folder.
+Only .ttf files are supported. You can freely add or remove font files.
+
+---
+## 📦 Dependencies
+	•	tkinter (included with Python)
+	•	ttkbootstrap
+	•	Pillow
+	•	matplotlib (used for reading font metadata)
+ 
+---
+## 🎓 Author Note
+
+This is a demo project created as part of my learning journey as a junior Python developer.
+I focused on building a functional, maintainable, and visually clean app, without unnecessary complexity.
+
+---
+## 📝 License
+
+MIT License – feel free to use, modify, and learn from it!
+
+---
 ## 🚀 How to Run
 
 1. Clone this repository
@@ -38,25 +61,3 @@ This app runs on:
 
 ```bash
 pip install -r requirements.txt
-
-
----
-📂 Fonts
-
-All fonts are loaded from the fonts/ folder.
-Only .ttf files are supported. You can freely add or remove font files.
----
-📦 Dependencies
-	•	tkinter (included with Python)
-	•	ttkbootstrap
-	•	Pillow
-	•	matplotlib (used for reading font metadata)
----
-🎓 Author Note
-
-This is a demo project created as part of my learning journey as a junior Python developer.
-I focused on building a functional, maintainable, and visually clean app, without unnecessary complexity.
----
-📝 License
-
-MIT License – feel free to use, modify, and learn from it!
