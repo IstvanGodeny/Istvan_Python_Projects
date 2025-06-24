@@ -48,9 +48,9 @@ This is a demo project, created as part of my learning journey as a junior Pytho
 I focused on building a functional, maintainable, and visually clean app, without unnecessary complexity.
 
 ---
-## 📝 License
+## 📝 Licence
 
-MIT License – feel free to use, modify, and learn from it!
+MIT Licence – feel free to use, modify, and learn from it!
 
 ---
 ## 🚀 How to Run
