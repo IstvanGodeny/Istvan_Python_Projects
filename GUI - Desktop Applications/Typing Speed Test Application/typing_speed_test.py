@@ -2,7 +2,7 @@
 Application: Typing Speed Test
 Author: Istvan Godeny
 Date: 24/06/2025
-Licence: MIT License
+Licence: MIT Licence
 """
 
 import time
