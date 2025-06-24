@@ -61,4 +61,5 @@ MIT License – feel free to use, modify, and learn from it!
 
 ```bash
 pip install -r requirements.txt
+python image_watermarking.py
 ```
