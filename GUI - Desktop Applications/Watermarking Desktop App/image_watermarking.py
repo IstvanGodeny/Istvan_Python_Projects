@@ -1,3 +1,10 @@
+"""
+Application: Watermarking Desktop Application
+Author: Istvan Godeny
+Date: 23/06/2025
+Licence: MIT Licence
+"""
+
 from tkinter import Menu, Canvas
 from ttkbootstrap import Window, Style, StringVar, DoubleVar
 from ttkbootstrap.widgets import (
