@@ -1,12 +1,10 @@
 ## 📄 Typing Speed Test – Python GUI App
 ---
-
 A simple desktop application to measure typing speed using Python and Tkinter.
 The user types a randomly selected sentence, and the app automatically calculates the typing speed (WPM) upon completion.
 
 ---
-
-## ✅ Features (MVP)
+## ✨ Features (MVP)
 - Graphical interface with clear layout
 - Randomly selected reference text
 - Real-time tracking of typing progress
@@ -15,11 +13,35 @@ The user types a randomly selected sentence, and the app automatically calculate
 - Reset functionality
 - Clipboard access disabled on the reference text
 
+---
 ## 🛠️ Technologies
 - Python 3
 - Tkinter (standard GUI library)
 
-## 📦 How to Run
+---
+## 🖥️ Cross-Platform Support
+
+This app runs on:
+
+- Windows
+- macOS
+- Linux
+
+> ✅ No installation required — only Python 3.8+ and a few standard packages.
+
+---
+## 🎓 Author Note
+
+This is a demo project, created as part of my learning journey as a junior Python developer.
+I focused on building a functional, maintainable, and visually clean app, without unnecessary complexity.
+
+---
+## 📝 License
+
+MIT License – feel free to use, modify, and learn from it!
+
+---
+## 🚀 How to Run
 1. Clone this repository
 2. Ensure you have Python 3.8 or higher installed
 
