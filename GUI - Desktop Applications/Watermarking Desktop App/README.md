@@ -5,7 +5,7 @@ Built with `tkinter`, styled using `ttkbootstrap`, and powered by `Pillow` for i
 
 ---
 
-## ✨ Features
+## ✨ Features (MVP)
 
 - ✅ Load JPEG, PNG, or GIF images
 - 🎨 Add text watermarks with:
