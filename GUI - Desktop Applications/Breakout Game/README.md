@@ -1,4 +1,4 @@
-# 🖼️ Image Watermarking Desktop App
+# 🖼️ Breakout Game (Turtle Graphics)
 
 A classic Breakout-style arcade game built using Python and the Turtle graphics library.
 
