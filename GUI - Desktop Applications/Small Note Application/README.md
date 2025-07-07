@@ -39,6 +39,7 @@ Install via:
 
 ```bash
 pip install PySide6
+'''
 
 ---
 ## 🎓 Author Note
