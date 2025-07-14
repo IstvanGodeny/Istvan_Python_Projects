@@ -37,7 +37,9 @@ It allows users to create, edit, and delete notes stored locally in an SQLite da
 
 ├── edit_note_card.py          # Dialog for editing notes
 
-└── notes.sqlite               # SQLite database (auto-generated)
+├── notes.sqlite               # SQLite database (auto-generated)
+
+└── requirements.txt           # List of the dependencies
 
 ---
 ## 🖥️ Cross-Platform Support
