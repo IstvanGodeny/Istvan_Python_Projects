@@ -59,18 +59,14 @@ I focused on building a functional, maintainable, and visually clean app, withou
 ---
 ## 📝 Licence
 
-MIT Licence – feel free to use, modify, and learn from it!
+MIT License – feel free to use, modify, and learn from it!
 
 ---
 ## 🚀 How to Run
 
-1. Clone this repository
-```bash
-git clone https://github.com/yourusername/note-app.git
-cd note-app
-```
+1. Download files and store them in a folder.
 
-2. (Optional) Create a virtual environment
+2. (Optional) Create a virtual environment in the folder where the files were downloaded.
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -79,7 +75,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 pip install PySide6
 ```
-4 Run the application
+4. Run the application
 ```bash
 python main.py
 ```
