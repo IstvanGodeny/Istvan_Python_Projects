@@ -26,11 +26,17 @@ It allows users to create, edit, and delete notes stored locally in an SQLite da
 ## 📂 Project Structure
 
 ├── main.py                    # Application entry point
+
 ├── main_window.py             # Main window with note list
+
 ├── database.py                # Database setup and connection
+
 ├── note_card.py               # Custom note card widget
+
 ├── add_new_note_card.py       # Dialog for adding notes
+
 ├── edit_note_card.py          # Dialog for editing notes
+
 └── notes.sqlite               # SQLite database (auto-generated)
 
 ---
