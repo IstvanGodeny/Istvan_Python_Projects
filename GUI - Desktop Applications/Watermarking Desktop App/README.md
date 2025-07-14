@@ -50,7 +50,7 @@ I focused on building a functional, maintainable, and visually clean app, withou
 ---
 ## 📝 Licence
 
-MIT Licence – feel free to use, modify, and learn from it!
+MIT License – feel free to use, modify, and learn from it!
 
 ---
 ## 🚀 How to Run
