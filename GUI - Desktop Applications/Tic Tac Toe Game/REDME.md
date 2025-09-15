@@ -6,13 +6,13 @@ The game combines a modern Material Design interface with the classic 3x3 Tic Ta
 ---
 ## ✨ Features
 
-- Two-player mode with customizable player names  
-- Dynamic score tracking across multiple rounds  
-- Color-coded "X" and "O" symbols for clear distinction  
-- Responsive layout that adapts to different window sizes  
-- Confirmation dialogs for reset and exit actions  
-- Winner and draw detection with automatic board reset  
-- Smooth and interactive user experience with styled buttons and hover effects
+- Two-player mode with customizable player names                                    ✅
+- Dynamic score tracking across multiple rounds                                     ✅
+- Color-coded "X" and "O" symbols for clear distinction                             ✅
+- Responsive layout that adapts to different window sizes                           ✅
+- Confirmation dialogs for reset and exit actions                                   ✅
+- Winner and draw detection with automatic board reset                              ✅
+- Smooth and interactive user experience with styled buttons and hover effects      ✅
 
 ---
 ## 🛠️ Technologies Used
