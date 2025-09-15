@@ -1,0 +1,251 @@
+<ResponsiveScreen>:
+    size: root.width, root.height
+
+    MDBoxLayout:
+        canvas:
+            Color:
+                rgba: 28/255, 10/255, 71/255, 1
+                # rgba: 38/255, 0/255, 81/255, 1
+            Rectangle:
+                size: self.size
+                pos: self.pos
+        size_hint: 1, 1
+        orientation: 'vertical'
+
+        padding: 5
+        spacing: 5
+# -------------------------- Players and points -------------------------
+        MDGridLayout:
+            rows: 1
+            size_hint: 1, 0.2
+
+            padding: 5
+            spacing: 5
+
+            MDAnchorLayout:
+                MDTextButton:
+                    id: player1
+                    text: "Player_1"
+                    halign: "center"
+                    valign: "center"
+                    theme_text_color: "Custom"
+                    text_color: 91/255, 221/255, 212/255
+                    disabled_color: 91/255, 221/255, 212/255
+                    bold: True
+                    adaptive_size: True
+                    size_hint_x: 0.9
+                    size_hint_y: 0.9
+                    on_press: app.dialog_player_name_1()
+
+            MDAnchorLayout:
+                size_hint: 0.25, 1
+
+                MDLabel:
+                    id: player1_score
+                    text: "0"
+                    halign: "center"
+                    valign: "center"
+                    theme_text_color: "Custom"
+                    text_color: 91/255, 221/255, 212/255
+                    bold: True
+                    adaptive_size: True
+                    size_hint_x: 0.9
+                    size_hint_y: 0.9
+
+            MDAnchorLayout:
+                size_hint: 0.25, 1
+
+                MDLabel:
+                    id: player2_score
+                    text: "0"
+                    halign: "center"
+                    valign: "center"
+                    theme_text_color: "Custom"
+                    text_color: 210/255, 83/255, 194/255, 1
+                    bold: True
+                    adaptive_size: True
+                    size_hint_x: 0.9
+                    size_hint_y: 0.9
+
+            MDAnchorLayout:
+                MDTextButton:
+                    id: player2
+                    text: "Player_2"
+                    halign: "center"
+                    valign: "center"
+                    theme_text_color: "Custom"
+                    text_color: 53/255, 45/255, 88/255, 1
+                    disabled_color: 210/255, 83/255, 194/255, 1
+                    bold: True
+                    adaptive_size: True
+                    size_hint_x: 0.9
+                    size_hint_y: 0.9
+                    on_press: app.dialog_player_name_2()
+
+# -------------------------------- Buttons ------------------------------
+        MDGridLayout:
+            id: buttons_layout
+            cols: 3
+
+            padding: 10
+            spacing: 10
+
+            pos_hint: {'center_x':0.5, 'center_y':0.5}
+
+            HoverRaisedButton:
+                id: a1
+                text: ""
+                font_size: root.height*0.6*0.15
+                theme_text_color: "Custom"
+                text_color: 91/255, 221/255, 212/255
+                size_hint: 3/100, 3/100
+                md_bg_color: 48/255, 21/255, 79/255, 1
+                line_color: 48/255, 21/255, 79/255, 1
+                line_width: 1.5
+                elevation: 1
+                on_press: app.press(self)
+
+            HoverRaisedButton:
+                id: a2
+                text: ""
+                font_size: root.height*0.6*0.15
+                theme_text_color: "Custom"
+                text_color: 91/255, 221/255, 212/255
+                size_hint: 3/100, 3/100
+                md_bg_color: 48/255, 21/255, 79/255, 1
+                line_color: 48/255, 21/255, 79/255, 1
+                line_width: 1.5
+                elevation: 1
+                on_press: app.press(self)
+
+            HoverRaisedButton:
+                id: a3
+                text: ""
+                font_size: root.height*0.6*0.15
+                theme_text_color: "Custom"
+                text_color: 91/255, 221/255, 212/255
+                size_hint: 3/100, 3/100
+                md_bg_color: 48/255, 21/255, 79/255, 1
+                line_color: 48/255, 21/255, 79/255, 1
+                line_width: 1.5
+                elevation: 1
+                on_press: app.press(self)
+
+
+            HoverRaisedButton:
+                id: b1
+                text: ""
+                font_size: root.height*0.6*0.15
+                theme_text_color: "Custom"
+                text_color: 91/255, 221/255, 212/255
+                size_hint: 3/100, 3/100
+                md_bg_color: 48/255, 21/255, 79/255, 1
+                line_color: 48/255, 21/255, 79/255, 1
+                line_width: 1.5
+                elevation: 1
+                on_press: app.press(self)
+
+            HoverRaisedButton:
+                id: b2
+                text: ""
+                font_size: root.height*0.6*0.15
+                theme_text_color: "Custom"
+                text_color: 91/255, 221/255, 212/255
+                size_hint: 3/100, 3/100
+                md_bg_color: 48/255, 21/255, 79/255, 1
+                line_color: 48/255, 21/255, 79/255, 1
+                line_width: 1.5
+                elevation: 1
+                on_press: app.press(self)
+
+            HoverRaisedButton:
+                id: b3
+                text: ""
+                font_size: root.height*0.6*0.15
+                theme_text_color: "Custom"
+                text_color: 91/255, 221/255, 212/255
+                size_hint: 3/100, 3/100
+                md_bg_color: 48/255, 21/255, 79/255, 1
+                line_color: 48/255, 21/255, 79/255, 1
+                line_width: 1.5
+                elevation: 1
+                on_press: app.press(self)
+
+
+            HoverRaisedButton:
+                id: c1
+                text: ""
+                font_size: root.height*0.6*0.15
+                theme_text_color: "Custom"
+                text_color: 91/255, 221/255, 212/255
+                size_hint: 3/100, 3/100
+                md_bg_color: 48/255, 21/255, 79/255, 1
+                line_color: 48/255, 21/255, 79/255, 1
+                line_width: 1.5
+                elevation: 1
+                on_press: app.press(self)
+
+            HoverRaisedButton:
+                id: c2
+                text: ""
+                font_size: root.height*0.6*0.15
+                theme_text_color: "Custom"
+                text_color: 91/255, 221/255, 212/255
+                size_hint: 3/100, 3/100
+                md_bg_color: 48/255, 21/255, 79/255, 1
+                line_color: 48/255, 21/255, 79/255, 1
+                line_width: 1.5
+                elevation: 1
+                on_press: app.press(self)
+
+            HoverRaisedButton:
+                id: c3
+                text: ""
+                font_size: root.height*0.6*0.15
+                theme_text_color: "Custom"
+                text_color: 91/255, 221/255, 212/255
+                size_hint: 3/100, 3/100
+                md_bg_color: 48/255, 21/255, 79/255, 1
+                line_color: 48/255, 21/255, 79/255, 1
+                line_width: 1.5
+                elevation: 1
+                on_press: app.press(self)
+
+
+# -------------------------- Reset and Exit Buttons ---------------------
+        MDGridLayout:
+            cols: 2
+            size_hint: 1, 0.2
+
+            padding: 5
+            spacing: 5
+
+            MDAnchorLayout:
+                anchor_x: "center"
+                anchor_y: "center"
+
+                MDRaisedButton:
+                    id: reset_btn
+                    text: "Reset"
+                    size_hint: 0.5, 0.5
+                    md_bg_color: 48/255, 21/255, 79/255, 1
+                    theme_text_color: "Custom"
+                    text_color: 252/255, 133/255, 218/255, 1
+                    # text_color: 81/255, 211/255, 202/255, 1
+                    bold: True
+                    on_press: app.reset_dialog()
+
+            MDAnchorLayout:
+                anchor_x: "center"
+                anchor_y: "center"
+
+                MDRaisedButton:
+                    id: exit_btn
+                    text: "Exit"
+                    size_hint: 0.5, 0.5
+                    md_bg_color: 48/255, 21/255, 79/255, 1
+                    theme_text_color: "Custom"
+                    text_color: 252/255, 133/255, 218/255, 1
+                    # text_color: 81/255, 211/255, 202/255, 1
+                    bold: True
+                    on_press: app.quit_dialog()
