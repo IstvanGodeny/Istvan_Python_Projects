@@ -43,7 +43,6 @@ I’m continuously improving my skills in:
 
 ---
 🔗 Explore More
-- 🌐 <a href="https://istvang2.pythonanywhere.com/" target="_blank">Istvan's Portfolio Website</a>
-- [Istvan's Portfolio Website](https://istvang2.pythonanywhere.com/)
-- [My LinkedIn Profile](https://www.linkedin.com/in/istvan-godeny)
+- 🌐 [Istvan's Portfolio Website](https://istvang2.pythonanywhere.com/)
+- 💻 [My LinkedIn Profile](https://www.linkedin.com/in/istvan-godeny)
   
