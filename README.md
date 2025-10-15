@@ -43,7 +43,7 @@ I’m continuously improving my skills in:
 
 ---
 🔗 Explore More
-- 🌐 <a href="https://istvan_g.pyscriptapps.com/text-to-morse-code-converter/latest/" target="_blank">Istvan's Portfolio Website</a>
-- 💻 LinkedIn Profile
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/istvan-godeny)
+- 🌐 <a href="https://istvang2.pythonanywhere.com/" target="_blank">Istvan's Portfolio Website</a>
+- [Istvan's Portfolio Website](https://istvang2.pythonanywhere.com/)
+- [My LinkedIn Profile](https://www.linkedin.com/in/istvan-godeny)
   
