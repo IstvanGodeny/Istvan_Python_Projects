@@ -4,28 +4,25 @@ Hi, I'm István Gödény, a self-taught Python developer passionate about buildi
 This repository is a growing collection of my personal and learning projects, showcasing my progress from simple scripts to full-featured desktop apps.
 
 ---
-🧠 About this Repository
+##🧠 About this Repository
 
 Here you’ll find different categories of projects that represent my learning journey and growing experience in software development.
 
-🗂️ Main Sections
-🖥️ GUI_Desktop_Applications
+### 🗂️ Main Sections
+
+### 🖥️ GUI_Desktop_Applications
 
 Projects built with PySide6, PyQt6, and Tkinter, focusing on clean design and usability.
 Examples include:
+- Note Application – A structured note-taking app with SQLite integration
+- Typing Speed Test – A desktop app to measure typing accuracy and speed
 
-Note Application – A structured note-taking app with SQLite integration
-
-Typing Speed Test – A desktop app to measure typing accuracy and speed
-
-⚙️ Scripts
+### ⚙️ Scripts
 
 Small but functional Python scripts demonstrating algorithmic thinking and automation.
 Examples include:
-
-Text to Morse Code Converter
-
-Tic Tac Toe with AI (Minimax algorithm)
+- Text to Morse Code Converter
+- Tic Tac Toe with AI (Minimax algorithm)
 
 ---
 🧩 Tools & Technologies
