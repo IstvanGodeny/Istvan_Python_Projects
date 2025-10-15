@@ -40,6 +40,7 @@ MIT License – feel free to use, modify, and learn from it!
 python text_to_morse_code_converter.py
 ```
 3. Type any text when prompted — the Morse code translation will be printed instantly.
+
 Example: Text: Hello World
 ➡️ Output:
 ```bash
