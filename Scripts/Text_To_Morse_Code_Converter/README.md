@@ -37,7 +37,7 @@ MIT License – feel free to use, modify, and learn from it!
 1. Clone or download this repository.
 2. Run the script:
 ```bash
-python text_to_morse_v2.py
+python text_to_morse_code_converter.py
 ```
 3. Type any text when prompted — the Morse code translation will be printed instantly.
 Example: Text: Hello World
