@@ -26,3 +26,4 @@ while run_app:
     morse_code = ' '.join(morse)
 
     print(morse_code)
+
