@@ -43,6 +43,7 @@ python python tic_tac_toe.py
 3. Enter your name, then play by typing positions like:
 
 Example: A1, B2, C3
+
 4. The AI will make its move after yours — try to beat it (if you can 😄).
 
 The application can also be tested online.
