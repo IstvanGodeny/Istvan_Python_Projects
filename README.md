@@ -1,7 +1,49 @@
-# Hello!
+# 👋 Welcome to my Python Projects Repository
 
-I'm currently learning Python and have been actively studying and practising it for the past two years. I'm passionate about problem-solving and enjoy building small projects to improve my skills. This repository contains a collection of my learning materials, exercises, and project demos.
-
-I'm now starting to look for junior developer roles, and I plan to use this space to showcase my work during job interviews. Please feel free to explore the code and let me know if you have any feedback or questions.
+Hi, I'm István Gödény, a self-taught Python developer passionate about building practical and creative applications.
+This repository is a growing collection of my personal and learning projects, showcasing my progress from simple scripts to full-featured desktop apps.
 
 ---
+🧠 About this Repository
+
+Here you’ll find different categories of projects that represent my learning journey and growing experience in software development.
+
+🗂️ Main Sections
+🖥️ GUI_Desktop_Applications
+
+Projects built with PySide6, PyQt6, and Tkinter, focusing on clean design and usability.
+Examples include:
+
+Note Application – A structured note-taking app with SQLite integration
+
+Typing Speed Test – A desktop app to measure typing accuracy and speed
+
+⚙️ Scripts
+
+Small but functional Python scripts demonstrating algorithmic thinking and automation.
+Examples include:
+
+Text to Morse Code Converter
+
+Tic Tac Toe with AI (Minimax algorithm)
+
+---
+🧩 Tools & Technologies
+- Python 3.x
+- PySide6 / PyQt6 / Tkinter / Kivy / KivyMD
+- SQLite / SQLAlchemy
+
+---
+🌱 My Learning Focus
+I’m continuously improving my skills in:
+- Writing clean, maintainable code
+- Building desktop and backend applications
+- Using APIs and databases
+- Learning GUI frameworks and web integration
+
+---
+🔗 Explore More
+- 🌐 <a href="https://istvan_g.pyscriptapps.com/text-to-morse-code-converter/latest/" target="_blank">Istvan's Portfolio Website</a>
+- 💻 LinkedIn Profile
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/istvan-godeny)
+  
