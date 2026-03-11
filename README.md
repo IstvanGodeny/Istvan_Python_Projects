@@ -1,6 +1,6 @@
 # 👋 Welcome to my Python Projects Repository
 
-Hi, I'm István Gödény, a self-taught Python developer passionate about building practical and creative applications.
+Hi, I'm Istvan Godeny, a self-taught Python developer passionate about building practical and creative applications.
 This repository is a growing collection of my personal and learning projects, showcasing my progress from simple scripts to full-featured desktop apps.
 
 ---
